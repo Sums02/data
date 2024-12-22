@@ -1,0 +1,21 @@
+regionCode,areaName,per,Cat
+E12000006,East Midlands,38.17196487,uk-born
+E12000004,East of England,36.94654039,uk-born
+E12000007,London,43.57835186,uk-born
+E12000001,North East,37.90487343,uk-born
+E12000002,North West,39.0844282,uk-born
+E12000008,South East,40.71191885,uk-born
+E12000009,South West,41.47933037,uk-born
+W92000004,Wales,39.30538882,uk-born
+E12000005,West Midlands,36.89360544,uk-born
+E12000003,Yorkshire and The Humber,37.76636734,uk-born
+E12000006,East Midlands,43.00367504,Immigrant
+E12000004,East of England,52.61280283,Immigrant
+E12000007,London,55.32214013,Immigrant
+E12000001,North East,51.01652339,Immigrant
+E12000002,North West,44.04773735,Immigrant
+E12000008,South East,57.01183355,Immigrant
+E12000009,South West,54.98580005,Immigrant
+W92000004,Wales,51.37863807,Immigrant
+E12000005,West Midlands,41.02099546,Immigrant
+E12000003,Yorkshire and The Humber,41.40414201,Immigrant
