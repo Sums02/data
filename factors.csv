@@ -1,21 +1,41 @@
-﻿areaName,employR,eduR,Cat
-East Midlands,44.65,38.17,UK-born
-East of England,45.21,36.95,UK-born
-London,42.95,43.58,UK-born
-North East,42.47,37.90,UK-born
-North West,44.17,39.08,UK-born
-South East,45.59,40.71,UK-born
-South West,45.62,41.48,UK-born
-Wales,43.22,39.31,UK-born
-West Midlands,43.09,36.89,UK-born
-Yorkshire and The Humber,43.91,37.77,UK-born
-East Midlands,58.57,43.00,Immigrant
-East of England,62.65,52.61,Immigrant
-London,59.19,55.32,Immigrant
-North East,50.24,51.02,Immigrant
-North West,51.76,44.05,Immigrant
-South East,62.14,57.01,Immigrant
-South West,61.35,54.99,Immigrant
-Wales,54.96,51.38,Immigrant
-West Midlands,51.38,41.02,Immigrant
-Yorkshire and The Humber,52.75,41.40,Immigrant
+﻿areaName,Cat,metric ,value
+East Midlands,UK-born,employ_rate,44.65
+East of England,UK-born,employ_rate,45.21
+London,UK-born,employ_rate,42.95
+North East,UK-born,employ_rate,42.47
+North West,UK-born,employ_rate,44.17
+South East,UK-born,employ_rate,45.59
+South West,UK-born,employ_rate,45.62
+Wales,UK-born,employ_rate,43.22
+West Midlands,UK-born,employ_rate,43.09
+Yorkshire and The Humber,UK-born,employ_rate,43.91
+East Midlands,Immigrant,employ_rate,58.57
+East of England,Immigrant,employ_rate,62.65
+London,Immigrant,employ_rate,59.19
+North East,Immigrant,employ_rate,50.24
+North West,Immigrant,employ_rate,51.76
+South East,Immigrant,employ_rate,62.14
+South West,Immigrant,employ_rate,61.35
+Wales,Immigrant,employ_rate,54.96
+West Midlands,Immigrant,employ_rate,51.38
+Yorkshire and The Humber,Immigrant,employ_rate,52.75
+East Midlands,UK-born,edu_rate,38.17
+East of England,UK-born,edu_rate,36.95
+London,UK-born,edu_rate,43.58
+North East,UK-born,edu_rate,37.90
+North West,UK-born,edu_rate,39.08
+South East,UK-born,edu_rate,40.71
+South West,UK-born,edu_rate,41.48
+Wales,UK-born,edu_rate,39.31
+West Midlands,UK-born,edu_rate,36.89
+Yorkshire and The Humber,UK-born,edu_rate,37.77
+East Midlands,Immigrant,edu_rate,43.00
+East of England,Immigrant,edu_rate,52.61
+London,Immigrant,edu_rate,55.32
+North East,Immigrant,edu_rate,51.02
+North West,Immigrant,edu_rate,44.05
+South East,Immigrant,edu_rate,57.01
+South West,Immigrant,edu_rate,54.99
+Wales,Immigrant,edu_rate,51.38
+West Midlands,Immigrant,edu_rate,41.02
+Yorkshire and The Humber,Immigrant,edu_rate,41.40
