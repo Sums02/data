@@ -1,0 +1,241 @@
+Regions Code,Regions,Economic activity status (4 categories) Code,Economic activity status (4 categories),Length of residence in the UK (6 categories) Code,Length of residence in the UK (6 categories),Observation
+E12000001,North East,-8,Does not apply,-8,Does not apply,0
+E12000001,North East,-8,Does not apply,1,Born in the UK,450899
+E12000001,North East,-8,Does not apply,2,10 years or more,2119
+E12000001,North East,-8,Does not apply,3,"5 years or more, but less than 10 years",4942
+E12000001,North East,-8,Does not apply,4,"2 years or more, but less than 5 years",5611
+E12000001,North East,-8,Does not apply,5,Less than 2 years,4482
+E12000001,North East,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000001,North East,1,Economically active: In employment (including full-time students),1,Born in the UK,1048049
+E12000001,North East,1,Economically active: In employment (including full-time students),2,10 years or more,56116
+E12000001,North East,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",14691
+E12000001,North East,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",10650
+E12000001,North East,1,Economically active: In employment (including full-time students),5,Less than 2 years,8550
+E12000001,North East,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000001,North East,2,Economically active: Unemployed (including full-time students),1,Born in the UK,70395
+E12000001,North East,2,Economically active: Unemployed (including full-time students),2,10 years or more,3773
+E12000001,North East,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",1583
+E12000001,North East,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",1478
+E12000001,North East,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,3112
+E12000001,North East,3,Economically inactive,-8,Does not apply,0
+E12000001,North East,3,Economically inactive,1,Born in the UK,898527
+E12000001,North East,3,Economically inactive,2,10 years or more,33238
+E12000001,North East,3,Economically inactive,3,"5 years or more, but less than 10 years",7551
+E12000001,North East,3,Economically inactive,4,"2 years or more, but less than 5 years",8229
+E12000001,North East,3,Economically inactive,5,Less than 2 years,13018
+E12000002,North West,-8,Does not apply,-8,Does not apply,0
+E12000002,North West,-8,Does not apply,1,Born in the UK,1305325
+E12000002,North West,-8,Does not apply,2,10 years or more,9271
+E12000002,North West,-8,Does not apply,3,"5 years or more, but less than 10 years",25795
+E12000002,North West,-8,Does not apply,4,"2 years or more, but less than 5 years",28141
+E12000002,North West,-8,Does not apply,5,Less than 2 years,23230
+E12000002,North West,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000002,North West,1,Economically active: In employment (including full-time students),1,Born in the UK,2893831
+E12000002,North West,1,Economically active: In employment (including full-time students),2,10 years or more,262289
+E12000002,North West,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",85040
+E12000002,North West,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",59264
+E12000002,North West,1,Economically active: In employment (including full-time students),5,Less than 2 years,41321
+E12000002,North West,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000002,North West,2,Economically active: Unemployed (including full-time students),1,Born in the UK,165230
+E12000002,North West,2,Economically active: Unemployed (including full-time students),2,10 years or more,16562
+E12000002,North West,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",7561
+E12000002,North West,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",6586
+E12000002,North West,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,9563
+E12000002,North West,3,Economically inactive,-8,Does not apply,0
+E12000002,North West,3,Economically inactive,1,Born in the UK,2187607
+E12000002,North West,3,Economically inactive,2,10 years or more,174595
+E12000002,North West,3,Economically inactive,3,"5 years or more, but less than 10 years",37997
+E12000002,North West,3,Economically inactive,4,"2 years or more, but less than 5 years",34789
+E12000002,North West,3,Economically inactive,5,Less than 2 years,43400
+E12000003,Yorkshire and The Humber,-8,Does not apply,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,1,Born in the UK,967149
+E12000003,Yorkshire and The Humber,-8,Does not apply,2,10 years or more,7150
+E12000003,Yorkshire and The Humber,-8,Does not apply,3,"5 years or more, but less than 10 years",16954
+E12000003,Yorkshire and The Humber,-8,Does not apply,4,"2 years or more, but less than 5 years",16448
+E12000003,Yorkshire and The Humber,-8,Does not apply,5,Less than 2 years,12774
+E12000003,Yorkshire and The Humber,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000003,Yorkshire and The Humber,1,Economically active: In employment (including full-time students),1,Born in the UK,2133152
+E12000003,Yorkshire and The Humber,1,Economically active: In employment (including full-time students),2,10 years or more,198636
+E12000003,Yorkshire and The Humber,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",62259
+E12000003,Yorkshire and The Humber,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",40550
+E12000003,Yorkshire and The Humber,1,Economically active: In employment (including full-time students),5,Less than 2 years,26771
+E12000003,Yorkshire and The Humber,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000003,Yorkshire and The Humber,2,Economically active: Unemployed (including full-time students),1,Born in the UK,123391
+E12000003,Yorkshire and The Humber,2,Economically active: Unemployed (including full-time students),2,10 years or more,12676
+E12000003,Yorkshire and The Humber,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",5069
+E12000003,Yorkshire and The Humber,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",4064
+E12000003,Yorkshire and The Humber,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,6180
+E12000003,Yorkshire and The Humber,3,Economically inactive,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,3,Economically inactive,1,Born in the UK,1634822
+E12000003,Yorkshire and The Humber,3,Economically inactive,2,10 years or more,133518
+E12000003,Yorkshire and The Humber,3,Economically inactive,3,"5 years or more, but less than 10 years",26075
+E12000003,Yorkshire and The Humber,3,Economically inactive,4,"2 years or more, but less than 5 years",22049
+E12000003,Yorkshire and The Humber,3,Economically inactive,5,Less than 2 years,31087
+E12000004,East Midlands,-8,Does not apply,-8,Does not apply,0
+E12000004,East Midlands,-8,Does not apply,1,Born in the UK,828072
+E12000004,East Midlands,-8,Does not apply,2,10 years or more,6914
+E12000004,East Midlands,-8,Does not apply,3,"5 years or more, but less than 10 years",17588
+E12000004,East Midlands,-8,Does not apply,4,"2 years or more, but less than 5 years",16657
+E12000004,East Midlands,-8,Does not apply,5,Less than 2 years,12778
+E12000004,East Midlands,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000004,East Midlands,1,Economically active: In employment (including full-time students),1,Born in the UK,1880264
+E12000004,East Midlands,1,Economically active: In employment (including full-time students),2,10 years or more,226067
+E12000004,East Midlands,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",80901
+E12000004,East Midlands,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",52314
+E12000004,East Midlands,1,Economically active: In employment (including full-time students),5,Less than 2 years,32778
+E12000004,East Midlands,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000004,East Midlands,2,Economically active: Unemployed (including full-time students),1,Born in the UK,96660
+E12000004,East Midlands,2,Economically active: Unemployed (including full-time students),2,10 years or more,11534
+E12000004,East Midlands,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",4508
+E12000004,East Midlands,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",3402
+E12000004,East Midlands,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,5451
+E12000004,East Midlands,3,Economically inactive,-8,Does not apply,0
+E12000004,East Midlands,3,Economically inactive,1,Born in the UK,1405678
+E12000004,East Midlands,3,Economically inactive,2,10 years or more,130335
+E12000004,East Midlands,3,Economically inactive,3,"5 years or more, but less than 10 years",24508
+E12000004,East Midlands,3,Economically inactive,4,"2 years or more, but less than 5 years",19110
+E12000004,East Midlands,3,Economically inactive,5,Less than 2 years,24535
+E12000005,West Midlands,-8,Does not apply,-8,Does not apply,0
+E12000005,West Midlands,-8,Does not apply,1,Born in the UK,1072614
+E12000005,West Midlands,-8,Does not apply,2,10 years or more,8546
+E12000005,West Midlands,-8,Does not apply,3,"5 years or more, but less than 10 years",24241
+E12000005,West Midlands,-8,Does not apply,4,"2 years or more, but less than 5 years",25713
+E12000005,West Midlands,-8,Does not apply,5,Less than 2 years,18314
+E12000005,West Midlands,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000005,West Midlands,1,Economically active: In employment (including full-time students),1,Born in the UK,2175241
+E12000005,West Midlands,1,Economically active: In employment (including full-time students),2,10 years or more,278463
+E12000005,West Midlands,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",88367
+E12000005,West Midlands,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",60537
+E12000005,West Midlands,1,Economically active: In employment (including full-time students),5,Less than 2 years,36281
+E12000005,West Midlands,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000005,West Midlands,2,Economically active: Unemployed (including full-time students),1,Born in the UK,141974
+E12000005,West Midlands,2,Economically active: Unemployed (including full-time students),2,10 years or more,20626
+E12000005,West Midlands,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",7606
+E12000005,West Midlands,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",6392
+E12000005,West Midlands,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,8329
+E12000005,West Midlands,3,Economically inactive,-8,Does not apply,0
+E12000005,West Midlands,3,Economically inactive,1,Born in the UK,1658493
+E12000005,West Midlands,3,Economically inactive,2,10 years or more,214072
+E12000005,West Midlands,3,Economically inactive,3,"5 years or more, but less than 10 years",37276
+E12000005,West Midlands,3,Economically inactive,4,"2 years or more, but less than 5 years",31408
+E12000005,West Midlands,3,Economically inactive,5,Less than 2 years,36264
+E12000006,East of England,-8,Does not apply,-8,Does not apply,0
+E12000006,East of England,-8,Does not apply,1,Born in the UK,1116114
+E12000006,East of England,-8,Does not apply,2,10 years or more,10034
+E12000006,East of England,-8,Does not apply,3,"5 years or more, but less than 10 years",22208
+E12000006,East of England,-8,Does not apply,4,"2 years or more, but less than 5 years",21046
+E12000006,East of England,-8,Does not apply,5,Less than 2 years,17388
+E12000006,East of England,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000006,East of England,1,Economically active: In employment (including full-time students),1,Born in the UK,2437020
+E12000006,East of England,1,Economically active: In employment (including full-time students),2,10 years or more,357064
+E12000006,East of England,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",111444
+E12000006,East of England,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",73096
+E12000006,East of England,1,Economically active: In employment (including full-time students),5,Less than 2 years,50017
+E12000006,East of England,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000006,East of England,2,Economically active: Unemployed (including full-time students),1,Born in the UK,122078
+E12000006,East of England,2,Economically active: Unemployed (including full-time students),2,10 years or more,16094
+E12000006,East of England,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",5437
+E12000006,East of England,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",4090
+E12000006,East of England,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,6622
+E12000006,East of England,3,Economically inactive,-8,Does not apply,0
+E12000006,East of England,3,Economically inactive,1,Born in the UK,1715493
+E12000006,East of England,3,Economically inactive,2,10 years or more,169189
+E12000006,East of England,3,Economically inactive,3,"5 years or more, but less than 10 years",27628
+E12000006,East of England,3,Economically inactive,4,"2 years or more, but less than 5 years",23198
+E12000006,East of England,3,Economically inactive,5,Less than 2 years,29814
+E12000007,London,-8,Does not apply,-8,Does not apply,0
+E12000007,London,-8,Does not apply,1,Born in the UK,1501042
+E12000007,London,-8,Does not apply,2,10 years or more,25399
+E12000007,London,-8,Does not apply,3,"5 years or more, but less than 10 years",60048
+E12000007,London,-8,Does not apply,4,"2 years or more, but less than 5 years",61848
+E12000007,London,-8,Does not apply,5,Less than 2 years,47406
+E12000007,London,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000007,London,1,Economically active: In employment (including full-time students),1,Born in the UK,2243524
+E12000007,London,1,Economically active: In employment (including full-time students),2,10 years or more,1250877
+E12000007,London,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",398836
+E12000007,London,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",286115
+E12000007,London,1,Economically active: In employment (including full-time students),5,Less than 2 years,180725
+E12000007,London,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000007,London,2,Economically active: Unemployed (including full-time students),1,Born in the UK,178112
+E12000007,London,2,Economically active: Unemployed (including full-time students),2,10 years or more,88120
+E12000007,London,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",26645
+E12000007,London,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",21561
+E12000007,London,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,29172
+E12000007,London,3,Economically inactive,-8,Does not apply,0
+E12000007,London,3,Economically inactive,1,Born in the UK,1301308
+E12000007,London,3,Economically inactive,2,10 years or more,770674
+E12000007,London,3,Economically inactive,3,"5 years or more, but less than 10 years",118656
+E12000007,London,3,Economically inactive,4,"2 years or more, but less than 5 years",94367
+E12000007,London,3,Economically inactive,5,Less than 2 years,115292
+E12000008,South East,-8,Does not apply,-8,Does not apply,0
+E12000008,South East,-8,Does not apply,1,Born in the UK,1616490
+E12000008,South East,-8,Does not apply,2,10 years or more,16265
+E12000008,South East,-8,Does not apply,3,"5 years or more, but less than 10 years",32738
+E12000008,South East,-8,Does not apply,4,"2 years or more, but less than 5 years",30925
+E12000008,South East,-8,Does not apply,5,Less than 2 years,27067
+E12000008,South East,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000008,South East,1,Economically active: In employment (including full-time students),1,Born in the UK,3563188
+E12000008,South East,1,Economically active: In employment (including full-time students),2,10 years or more,569024
+E12000008,South East,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",162377
+E12000008,South East,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",107842
+E12000008,South East,1,Economically active: In employment (including full-time students),5,Less than 2 years,69348
+E12000008,South East,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000008,South East,2,Economically active: Unemployed (including full-time students),1,Born in the UK,180204
+E12000008,South East,2,Economically active: Unemployed (including full-time students),2,10 years or more,25452
+E12000008,South East,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",7854
+E12000008,South East,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",6137
+E12000008,South East,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,10115
+E12000008,South East,3,Economically inactive,-8,Does not apply,0
+E12000008,South East,3,Economically inactive,1,Born in the UK,2456068
+E12000008,South East,3,Economically inactive,2,10 years or more,269023
+E12000008,South East,3,Economically inactive,3,"5 years or more, but less than 10 years",42634
+E12000008,South East,3,Economically inactive,4,"2 years or more, but less than 5 years",35524
+E12000008,South East,3,Economically inactive,5,Less than 2 years,49790
+E12000009,South West,-8,Does not apply,-8,Does not apply,0
+E12000009,South West,-8,Does not apply,1,Born in the UK,920191
+E12000009,South West,-8,Does not apply,2,10 years or more,6799
+E12000009,South West,-8,Does not apply,3,"5 years or more, but less than 10 years",14068
+E12000009,South West,-8,Does not apply,4,"2 years or more, but less than 5 years",13113
+E12000009,South West,-8,Does not apply,5,Less than 2 years,11175
+E12000009,South West,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+E12000009,South West,1,Economically active: In employment (including full-time students),1,Born in the UK,2335470
+E12000009,South West,1,Economically active: In employment (including full-time students),2,10 years or more,213285
+E12000009,South West,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",68816
+E12000009,South West,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",45362
+E12000009,South West,1,Economically active: In employment (including full-time students),5,Less than 2 years,29401
+E12000009,South West,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+E12000009,South West,2,Economically active: Unemployed (including full-time students),1,Born in the UK,105349
+E12000009,South West,2,Economically active: Unemployed (including full-time students),2,10 years or more,9071
+E12000009,South West,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",3259
+E12000009,South West,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",2756
+E12000009,South West,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,4455
+E12000009,South West,3,Economically inactive,-8,Does not apply,0
+E12000009,South West,3,Economically inactive,1,Born in the UK,1758482
+E12000009,South West,3,Economically inactive,2,10 years or more,105890
+E12000009,South West,3,Economically inactive,3,"5 years or more, but less than 10 years",16777
+E12000009,South West,3,Economically inactive,4,"2 years or more, but less than 5 years",15018
+E12000009,South West,3,Economically inactive,5,Less than 2 years,22449
+W92000004,Wales,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,1,Born in the UK,530621
+W92000004,Wales,-8,Does not apply,2,10 years or more,2633
+W92000004,Wales,-8,Does not apply,3,"5 years or more, but less than 10 years",5540
+W92000004,Wales,-8,Does not apply,4,"2 years or more, but less than 5 years",4987
+W92000004,Wales,-8,Does not apply,5,Less than 2 years,4300
+W92000004,Wales,1,Economically active: In employment (including full-time students),-8,Does not apply,0
+W92000004,Wales,1,Economically active: In employment (including full-time students),1,Born in the UK,1250057
+W92000004,Wales,1,Economically active: In employment (including full-time students),2,10 years or more,75629
+W92000004,Wales,1,Economically active: In employment (including full-time students),3,"5 years or more, but less than 10 years",20328
+W92000004,Wales,1,Economically active: In employment (including full-time students),4,"2 years or more, but less than 5 years",13242
+W92000004,Wales,1,Economically active: In employment (including full-time students),5,Less than 2 years,9195
+W92000004,Wales,2,Economically active: Unemployed (including full-time students),-8,Does not apply,0
+W92000004,Wales,2,Economically active: Unemployed (including full-time students),1,Born in the UK,69388
+W92000004,Wales,2,Economically active: Unemployed (including full-time students),2,10 years or more,4284
+W92000004,Wales,2,Economically active: Unemployed (including full-time students),3,"5 years or more, but less than 10 years",1534
+W92000004,Wales,2,Economically active: Unemployed (including full-time students),4,"2 years or more, but less than 5 years",1323
+W92000004,Wales,2,Economically active: Unemployed (including full-time students),5,Less than 2 years,2368
+W92000004,Wales,3,Economically inactive,-8,Does not apply,0
+W92000004,Wales,3,Economically inactive,1,Born in the UK,1041998
+W92000004,Wales,3,Economically inactive,2,10 years or more,43583
+W92000004,Wales,3,Economically inactive,3,"5 years or more, but less than 10 years",7977
+W92000004,Wales,3,Economically inactive,4,"2 years or more, but less than 5 years",7218
+W92000004,Wales,3,Economically inactive,5,Less than 2 years,11292
