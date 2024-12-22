@@ -1,41 +1,41 @@
 ﻿areaName,Cat,metric ,value
-East Midlands,UK-born,Employment Percentage,44.65
-East of England,UK-born,Employment Percentage,45.21
-London,UK-born,Employment Percentage,42.95
-North East,UK-born,Employment Percentage,42.47
-North West,UK-born,Employment Percentage,44.17
-South East,UK-born,Employment Percentage,45.59
-South West,UK-born,Employment Percentage,45.62
-Wales,UK-born,Employment Percentage,43.22
-West Midlands,UK-born,Employment Percentage,43.09
-Yorkshire and The Humber,UK-born,Employment Percentage,43.91
-East Midlands,Immigrant,Employment Percentage,58.57
-East of England,Immigrant,Employment Percentage,62.65
-London,Immigrant,Employment Percentage,59.19
-North East,Immigrant,Employment Percentage,50.24
-North West,Immigrant,Employment Percentage,51.76
-South East,Immigrant,Employment Percentage,62.14
-South West,Immigrant,Employment Percentage,61.35
-Wales,Immigrant,Employment Percentage,54.96
-West Midlands,Immigrant,Employment Percentage,51.38
-Yorkshire and The Humber,Immigrant,Employment Percentage,52.75
-East Midlands,UK-born,Higher level education percentage,38.17
-East of England,UK-born,Higher level education percentage,36.95
-London,UK-born,Higher level education percentage,43.58
-North East,UK-born,Higher level education percentage,37.90
-North West,UK-born,Higher level education percentage,39.08
-South East,UK-born,Higher level education percentage,40.71
-South West,UK-born,Higher level education percentage,41.48
-Wales,UK-born,Higher level education percentage,39.31
-West Midlands,UK-born,Higher level education percentage,36.89
-Yorkshire and The Humber,UK-born,Higher level education percentage,37.77
-East Midlands,Immigrant,Higher level education percentage,43.00
-East of England,Immigrant,Higher level education percentage,52.61
-London,Immigrant,Higher level education percentage,55.32
-North East,Immigrant,Higher level education percentage,51.02
-North West,Immigrant,Higher level education percentage,44.05
-South East,Immigrant,Higher level education percentage,57.01
-South West,Immigrant,Higher level education percentage,54.99
-Wales,Immigrant,Higher level education percentage,51.38
-West Midlands,Immigrant,Higher level education percentage,41.02
-Yorkshire and The Humber,Immigrant,Higher level education percentage,41.40
+East Midlands,UK-born,Employment Percentage,0.45
+East of England,UK-born,Employment Percentage,0.45
+London,UK-born,Employment Percentage,0.43
+North East,UK-born,Employment Percentage,0.42
+North West,UK-born,Employment Percentage,0.44
+South East,UK-born,Employment Percentage,0.46
+South West,UK-born,Employment Percentage,0.46
+Wales,UK-born,Employment Percentage,0.43
+West Midlands,UK-born,Employment Percentage,0.43
+Yorkshire and The Humber,UK-born,Employment Percentage,0.44
+East Midlands,Immigrant,Employment Percentage,0.59
+East of England,Immigrant,Employment Percentage,0.63
+London,Immigrant,Employment Percentage,0.59
+North East,Immigrant,Employment Percentage,0.50
+North West,Immigrant,Employment Percentage,0.52
+South East,Immigrant,Employment Percentage,0.62
+South West,Immigrant,Employment Percentage,0.61
+Wales,Immigrant,Employment Percentage,0.55
+West Midlands,Immigrant,Employment Percentage,0.51
+Yorkshire and The Humber,Immigrant,Employment Percentage,0.53
+East Midlands,UK-born,Higher level education percentage,0.38
+East of England,UK-born,Higher level education percentage,0.37
+London,UK-born,Higher level education percentage,0.44
+North East,UK-born,Higher level education percentage,0.38
+North West,UK-born,Higher level education percentage,0.39
+South East,UK-born,Higher level education percentage,0.41
+South West,UK-born,Higher level education percentage,0.41
+Wales,UK-born,Higher level education percentage,0.39
+West Midlands,UK-born,Higher level education percentage,0.37
+Yorkshire and The Humber,UK-born,Higher level education percentage,0.38
+East Midlands,Immigrant,Higher level education percentage,0.43
+East of England,Immigrant,Higher level education percentage,0.53
+London,Immigrant,Higher level education percentage,0.55
+North East,Immigrant,Higher level education percentage,0.51
+North West,Immigrant,Higher level education percentage,0.44
+South East,Immigrant,Higher level education percentage,0.57
+South West,Immigrant,Higher level education percentage,0.55
+Wales,Immigrant,Higher level education percentage,0.51
+West Midlands,Immigrant,Higher level education percentage,0.41
+Yorkshire and The Humber,Immigrant,Higher level education percentage,0.41
